@@ -1,9 +1,11 @@
 package abiodun_java_qap2.Problem2;
 
 public class MyPoint {
+    // Data fields
     private int x;
     private int y;
 
+    // Constructors
     public MyPoint() {
         this.x = 0;
         this.y = 0;
@@ -14,6 +16,7 @@ public class MyPoint {
         this.y = y;
     }
 
+    // Getters and Setters
     public int getX() {
         return x;
     }
@@ -56,6 +59,7 @@ public class MyPoint {
         return Math.sqrt(x * x + y * y);
     }
 
+    // toString method
     @Override
     public String toString() {
         return "(" + x + ", " + y + ")";
