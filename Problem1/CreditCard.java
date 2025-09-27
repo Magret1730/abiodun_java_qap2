@@ -39,7 +39,6 @@ public class CreditCard {
     }
 
     // Payment method
-    // Payment method
     public void payment(Money amount) {
         balance = balance.subtract(amount);
         System.out.println("Payment: " + amount);

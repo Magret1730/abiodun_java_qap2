@@ -12,6 +12,7 @@ public class Person {
         this.home = home;
     }
 
+    // toString method to display person's details
     @Override
     public String toString() {
         return firstname + " " + lastname + "\n" + home.toString();

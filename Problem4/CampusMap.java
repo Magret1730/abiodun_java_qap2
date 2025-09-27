@@ -67,7 +67,7 @@ public class CampusMap {
         return false;
     }
 
-    // Helper: get center point of a rectangle
+    // get center point of a rectangle
     private MyPoint getCenter(MyRectangle rect) {
         int centerX = (rect.getTopLeft().getX() + rect.getBottomRight().getX()) / 2;
         int centerY = (rect.getTopLeft().getY() + rect.getBottomRight().getY()) / 2;
