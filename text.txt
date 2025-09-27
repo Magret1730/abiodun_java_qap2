@@ -1,11 +1,10 @@
 Assessment Answers
 
 1. How many hours did it take you to complete this assessment?
-   Approximately 3 hours in total.
+   Approximately 24 hours in total.
 
 2. What online resources did you use?
    - Class lectures
-   - Week 2 task
 
 3. Did you need to ask any of your friends for help in solving the problems?
    No.
@@ -14,5 +13,5 @@ Assessment Answers
    No.
 
 5. Rate (subjectively) the difficulty of each question and your confidence level:
-   - Difficulty: 7/10
-   - Confidence: Yes, I feel confident that I can solve a similar but different problem requiring the same techniques in the future.
+   - Difficulty: 9/10
+   - Confidence: I don't feel confident I can but I can try.
